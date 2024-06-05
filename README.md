@@ -11,13 +11,11 @@ dotnet run -u C:\Users\iskender\AppData\Local\Roblox\Versions\version-d6abc3b106
 
 **pack: **
 ```sh
-mkdir output
 dotnet run --p ./output C:\Users\iskender\AppData\Local\Roblox\Versions\version-d6abc3b106a04c5c\shaders\shaders_glsl3.pack
 ```
 
 **reset: **
 ```sh
-mkdir output
 dotnet run --r C:\Users\iskender\AppData\Local\Roblox\Versions\version-d6abc3b106a04c5c\shaders\shaders_glsl3.pack
 ```
 
